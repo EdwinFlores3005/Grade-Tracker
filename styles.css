@@ -1,0 +1,22 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f5f5f5;
+    padding: 20px;
+  }
+  
+  #add-subject-btn {
+    padding: 10px 20px;
+    font-size: 16px;
+    background-color: #a3c1c9;
+    border: none;
+    border-radius: 10px;
+    cursor: pointer;
+  }
+  
+  .subject {
+    background-color: #eaf4f4;
+    border: 2px solid #00f;
+    margin: 20px 0;
+    padding: 10px;
+    border-radius: 10px;
+  }
